@@ -1,0 +1,10 @@
+dujava\controller\LoginController.class
+dujava\controller\RegistrationController.class
+dujava\dao\UserDao.class
+dujava\dao\UserMapper.class
+dujava\service\UserServiceImpl.class
+dujava\dasd.class
+dujava\service\UserService.class
+dujava\model\User.class
+dujava\dao\UserDaoImpl.class
+dujava\model\Login.class
